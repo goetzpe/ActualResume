@@ -24,4 +24,4 @@ N/A
 ----
 + Dan'l Boone Inn, *2016-2024*
 
-<center><img src="/img/CYMC8551.JPG" width='100'></center>
+<center><img src="img/CYMC8551.JPG" width='100'></center>
